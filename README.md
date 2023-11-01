@@ -2,6 +2,10 @@
 
 Welcome to this tutorial where you'll learn how to create a stylish toggle button using HTML and CSS. This toggle button can be a great addition to your web projects, enhancing user experience and design aesthetics.
 
+### Live Code Preview
+See the toggle button in action! Click the following link to experience the live preview of our toggle button:
+
+[Live preview](https://srinathsree66.github.io/toggle-button-html-css/)
 
 
 ## Prerequisites
