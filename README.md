@@ -28,6 +28,6 @@ Happy coding!
 
 ### Follow me on:
 
-- Twitter: [Twitter Profile](https://twitter.com/Srinath799)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/srinath-yadav-vayalpati-bb6b56137)
-- Instagram: [Instagram Profile](https://www.instagram.com/front_end_sree)
+- Twitter: [Twitter Profile](https://twitter.com/srinathsree66)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/srinathsree66)
+- Instagram: [Instagram Profile](https://www.instagram.com/srinath_sree66)
